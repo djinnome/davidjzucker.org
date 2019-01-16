@@ -1,0 +1,483 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Publications</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<script language="JavaScript" fptype="dynamicoutline">
+<!--
+function dynOutline() {}
+//-->
+</script>
+<script language="JavaScript1.2" fptype="dynamicoutline" src="outline.js">
+</script>
+<script language="JavaScript1.2" fptype="dynamicoutline" for="document" event="onreadystatechange()">
+<!--
+initOutline()
+//-->
+</script>
+<meta name="Microsoft Theme" content="blends 001, default">
+<meta name="Microsoft Border" content="lb, default">
+</head>
+
+<body onclick="dynOutline()" background="_themes/blends/blegtext.gif" bgcolor="#CCCCCC" text="#000000" link="#993300" vlink="#0000FF" alink="#FF9900"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%"><font face="Trebuchet MS, Arial, Helvetica">
+
+<a href="index.htm"><img src="_derived/home_cmp_blends000_vbtn.gif" width="140" height="60" border="0" alt="Home"></a><br><a href="djzbooks.htm"><img src="_derived/djzbooks.htm_cmp_blends000_vbtn.gif" width="140" height="60" border="0" alt="Books"></a><br><a href="djzposters.htm"><img src="_derived/djzposters.htm_cmp_blends000_vbtn.gif" width="140" height="60" border="0" alt="Posters"></a><br><img src="_derived/djzpublications.htm_cmp_blends000_vbtn_p.gif" width="140" height="60" border="0" alt="Publications"><br><a href="djzpapers.htm"><img src="_derived/djzpapers.htm_cmp_blends000_vbtn.gif" width="140" height="60" border="0" alt="Papers"></a>
+
+</font></td><td valign="top" width="24"></td><!--msnavigation--><td valign="top"><font face="Trebuchet MS, Arial, Helvetica">
+
+<p><!--webbot bot="Navigation" s-type="banner" s-rendering s-orientation
+b-include-home b-include-up u-page s-target startspan --><img src="_derived/djzpublications.htm_cmp_blends000_bnr.gif" width="600" height="60" border="0" alt="Publications"><!--webbot bot="Navigation" endspan i-checksum="12951" --></p>
+<p>(Partial list)</p>
+<p align="center"><font size="7">2007</font></p>
+</font>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">"<em>Parashat Mishpatim</em>" with Bonita E Taylor in <em>Mekor Chaim</em>, UJC Communities, February 12, 2007</font></td></tr>
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">"Rhythms and Religious Rituals" -- Torah Reflections on <em>Parashat Bo</em>, <i>Electronic Chaplaincy/Torah Reflections</i>, January 27, 2007, <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">"Restructuring Psalm 85" in <em>Jewish Bible Quarterly</em>, January-March 2007, 35.1, 47-55</font></td></tr>
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">"Peer Support/Consultation Group: A Practical Response" (with T. Patrick Bradley) in <em>PlainViews</em> [Chaplaincy E-Magazine] 3.23, 1/3/07</font></td></tr>
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">"A Betrayal of the Their Sacred Trust: Rabbis, Cantors, and Chaplains Who Violate Sexual Boundaries," <em>CCAR Journal</em>, Fall, 2006, 53-54, 66-79</font></td></tr>
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of William C. Gaventa and David L. Coulter, eds., <u>End-of-life Care: Bridging Disability and Aging with Person-centered Care</u> in <em>Chaplaincy Today</em>, Autumn/Winter, 2006, 22.2, 51-52</font></td></tr>
+<tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Sherri Mandell, <u>The Blessings of a Broken Heart</u> in <em>PlainViews</em> [Chaplaincy E-Magazine] 3.19, 11/1/06</font></td></tr>
+</table>
+<p align="center"><font size="7">2006</font></p>
+</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Mary M. Toole, <u>Handbook for Chaplains</u>, in <i>Vision</i> [National Association of Catholic Chaplains journal] October 2006, 16.9, 19</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Journeys Toward Succot” -- Torah Reflections on <em>Parashat Ha-azinu</em>, <i>Electronic Chaplaincy/Torah Reflections</i>, September 21, 2006, <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Living Generously: Hineni” with Bonita E Taylor in <i>The Orchard</i>, UJC Communities, Fall, 2006, 22</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Remembering and Forgetting” -- Torah Reflections on <em>Parashat Ki Tetze</em>, <i>Electronic Chaplaincy/Torah Reflections</i>, August 25, 2006, <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“<em>Parashat Shoftim</em>” with Bonita E Taylor in <i>Mekor Chaim</i>, UJC Communities, August 21, 2006</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Women Rabbis: A Novel Idea” in <i>Judaism</i>, Summer/Fall 2006, 55.1-2, 108-116</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Anne Lamott, <u>Traveling Mercies: Some Thoughts on Faith</u> and <u>Plan B: Further Thoughts on Faith</u>, in <i>PlainViews</i> [Chaplaincy E-Magazine] 3.12, 7/19/06</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Edmund D. Pellegrino and Alan A. Feden (with T. Patrick Bradley), editors, <u>Jewish and Catholic Bioethics: An Ecumenical Dialogue</u>, in <i>PlainViews</i> [Chaplaincy E-Magazine] 3.9, 6/7/06</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Not knowing the past” in <i>Healing Ministry</i>, 13.1, Winter 2006, 9-10</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Anne Lamott, <u>Blue Shoe</u>, in <i>PlainViews</i> [Chaplaincy E-Magazine] 3.7, 5/3/06</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Between a Rock and Hard Place” -- Torah Reflections on <em>Parashat Behar-Behukotai</em>, <i>Electronic Chaplaincy/Torah Reflections</i>, May 20, 2006, <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Compassion Fatigue and Burnout among Rabbis Working as Chaplains” with Bonita E Taylor, Andrew J. Weaver, Kevin J. Flannery in <i>Journal of Pastoral Care &amp; Counseling</i>, Spring-Summer, 2006, 60.1-2, 35-42</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Dayle A. Friedman, Ed., <u>Jewish Pastoral Care: A Practical
+    Handbook, 2nd Edition Revised and Expanded</u>, in <i>Journal of Pastoral
+    Care &amp; Counseling</i>, Spring-Summer, 2006, 60.1-2, 177-179</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Achieving In-the-moment Reconciliation” in <i>Chaplaincy Today</i>,
+    Spring/Summer, 2006, 22.1, 20-21</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Kristen M. Swenson, <u>Living Through Pain: Psalms and the
+    Search for Wholeness</u> in <i>Chaplaincy Today</i>, Spring/Summer, 2006,
+    22.1, 49-50</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of <u>Measures of Chaplain Performance and Productivity</u>,
+    (Catholic Health Initiatives, 2002) in <i>PlainViews</i> [Chaplaincy
+    E-Magazine] 3.3, 3/1/06</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“. . . And Be There” -- Torah Reflections on <em>Parashat Mishpatim</em>, <i>Electronic
+    Chaplaincy/Torah Reflections</i>, February 25, 2006, <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Our Unique Roles as Chaplains/Pastoral Care Givers” in <i>PlainViews</i>
+    [Chaplaincy E-Magazine] 2.24, 1/1/8/06 </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Different Names” -- Torah Reflections on <em>Parashat Shemot</em>, <i>Electronic
+    Chaplaincy/Torah Reflections</i>, January 21, 2006, <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a>
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Parashat Vayehi” in “Mekor Chaim” <i>UJC Communities</i>, January
+    9, 2006 </font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">2005</font></p>
+</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“A Betrayal of Their Sacred Trust: Rabbis, Cantors, and Chaplains Who
+    Violate Sexual Boundaries” in <i>Journal of Religion and Abuse</i>, 2005,
+    7.2, 77-89</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“More than the Songs that We Sing” in <i>PlainViews </i>[Chaplaincy
+    E-Magazine] 2.21, <st1:date Year="2005" Day="8"
+Month="12">
+    <span style="layout-grid-mode: line">December </span><span style="layout-grid-mode:line">8,
+    2005</span></st1:date>
+    <span style="mso-tab-count: 1; layout-grid-mode: line">&nbsp;&nbsp;&nbsp;&nbsp;
+    </span><span style="layout-grid-mode:line"><o:p>
+    &nbsp;</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jacob’s Journey<span class="GramE">”<span style="mso-spacerun:yes">&nbsp;
+    </span>--</span> <span class="SpellE">Vayetze</span>, <i><span style="layout-grid-mode:line">Electronic
+    Chaplaincy/ </span>Torah Reflections</i>, December 2005 <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Matthew B. Schwartz and <span class="SpellE">Kalman</span> J.
+    Kaplan, <u>Biblical Stories for Psychotherapy and Counseling: A Sourcebook</u>,
+    and <span class="SpellE">Dayle</span> A. Friedman, Ed.<span style="layout-grid-mode:line"><span style="mso-spacerun:yes">&nbsp;
+    </span><u>Jewish Pastoral Care:<span style="mso-spacerun:yes">&nbsp; </span>A
+    Practical Handbook, 2<sup>nd</sup> Edition</u> <u>Revised and Expanded</u>,
+    in <i>Chaplaincy Today,</i> Autumn/Winter, 2005, 21.2, 50-53</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Kristen M. Swenson<span class="GramE">,<span style="mso-spacerun:yes">&nbsp;
+    </span><u>Living</u></span><u> Through Pain: Psalms and the Search for
+    Wholeness</u> in <i>PlainViews </i>[Chaplaincy E-Magazine] 2.18, <st1:date Year="2005" Day="19" Month="10">
+    <span style="layout-grid-mode: line">October 19, 2005</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Like A Well-Watered Garden: Spiritual Hydration” in “The Orchard,”
+    <span class="SpellE">UJC</span> Communities, <span class="GramE">Fall</span>,
+    2005<span style="mso-spacerun:yes">&nbsp;</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Elizabeth <span class="SpellE">MacKinlay</span>, ed. <u>Mental
+    Health and Spirituality in Later Life</u> in <i>Chaplaincy Today</i>, Spring
+    Summer, 2005, 21.l, 49-50</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Family of Resident’s Support Group: Living with Loss, Dealing with
+    Denial” in <i>Annals of Long-Term Care</i>, August 2005, 13.8, 45-48</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Spiritual <span class="SpellE">Hydration” in</span> <i>PlainViews </i>[Chaplaincy
+    E-Magazine] 2.13, <st1:date Year="2005"
+Day="3" Month="8">
+    <span style="layout-grid-mode:line">August 3, 2005</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Parashat <span class="SpellE">Pinchas</span>” in “<span class="SpellE">Mekor</span>
+    <span class="SpellE">Chaim</span>” <span class="SpellE">UJC</span>
+    Communities, <span class="GramE">July,</span> 2005</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“The Riddle of Psalm 49” in <i>Jewish Bible Quarterly</i><span class="GramE">,<span style="mso-spacerun:yes">&nbsp;
+    </span>July</span>-September, 2005, 33.3, 143-152</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“When I’m Sixty-Four” in <i>PlainViews </i>[Chaplaincy E-Magazine]
+    2.10, <st1:date Year="2005" Day="15" Month="6">
+    <span style="layout-grid-mode:line">6/15, 2005</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Shed Your Sandals” in <i>Journal of Pastoral Care &amp; Counseling</i>,
+    Spring-Summer, 2005, 59.1-2, 141-143</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Breaching a Sacred Trust<span class="GramE">”<span style="mso-spacerun:yes">&nbsp;
+    </span>Rabbis</span>, Cantors, and Chaplains/<span class="SpellE"><i>Kley</i></span><i>
+    <span class="SpellE">Kodesh</span> </i>and “Sexual Boundary Violations: A
+    Survey of Sources and Resources<span class="GramE">”<span style="mso-spacerun:yes">
+    </span></span><span style="layout-grid-mode:line">in <i>Jewish Spiritual
+    Care</i>, [NAJC Journal] Winter, 2005, 7.2, 12-17</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“A Multiplicity of Meanings” in “The Orchard,” <span class="SpellE">UJC</span>
+    Communities, <span class="GramE">Spring</span>, 2005<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Second Chances” – <span class="SpellE">Hol</span> <span class="SpellE">HaMoed</span>
+    Pesach, <span style="layout-grid-mode:line">Electronic Chaplaincy/ </span>Torah
+    Reflections, April 2005 <a href="http://www.jewishhealingcenter.org">www.jewishhealingcenter.org</a></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Experiencing the Message of Freedom and Dignity” with Bonita E
+    Taylor, <span class="GramE">in<span style="mso-spacerun:yes">&nbsp; </span><i>PlainViews</i></span><i>
+    </i>[Chaplaincy E-Magazine] 2.6, <st1:date Year="2005" Day="20" Month="4">
+    <span style="layout-grid-mode: line">April </span><span style="layout-grid-mode:line">20,
+    2005</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Only by their name shall you know them” in <i>Healing Ministry</i>, <span class="GramE">Winter</span>
+    2005</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Joan <span class="SpellE">Leegant</span>, <u>An Hour in
+    Paradise: Stories</u> in <span class="SpellE"><i>CCAR</i></span><i> Journal</i>,
+    <span class="GramE">Winter</span>, 2005, xxx/xxx, 101</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“<span class="SpellE">Va</span>-era” Electronic Chaplaincy/Torah
+    Reflections, January 2005 <a href="http://www.jewishhealingcenter.org/">www.jewishhealingcenter.org</a></font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">2004</font></p>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“A Still Stranger Stratagem: Revisiting Genesis 27” in <i>Conservative
+    Judaism</i>, Winter, 2004</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;layout-grid-mode:line">Review of Jack H
+    Bloom, <i>The Rabbi As Symbolic Exemplar</i></span> [click to see list]<span style="font-size:12.0pt;layout-grid-mode:line">:</span>
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;layout-grid-mode:line"><i>Jewish
+        Spiritual Care</i>, Winter, 2004</span></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;layout-grid-mode:line"><i>Journal of
+        Pastoral Care &amp; Counseling</i>, Winter, 2003<o:p>
+        </o:p>
+        </span></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;layout-grid-mode:line">“’Bless Me’: An
+    Opportunity Missed?” in <i>Ministry</i>, March 2004</span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;
+layout-grid-mode:line">“Make Time For Reconciliation”, in <i>PlainViews </i>[Cognate
+    Chaplaincy E-Magazine] Vol. 1, No. 4, 3/17/04<o:p>
+    </o:p>
+    </span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><strong><span style="font-size:12.0pt;font-weight:normal">“Finding New
+    Meaning in Old Traditions” with Bonita </span></strong><span style="font-size:12.0pt">E
+    Taylor, in “The Orchard”, Spring, 2004</span></font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">2003</font></p>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;layout-grid-mode:line">Review of Naomi Levy,
+    <i>Talking to God</i>, in <i>Jewish Spiritual Care</i>, Winter 2003<o:p>
+    </o:p>
+    </span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica"><span style="font-size:12.0pt;layout-grid-mode:line"><o:p>
+    </o:p><span style="font-size:12.0pt;
+layout-grid-mode:line">“You lift us up” in <i>Healing Ministry</i>, Winter
+    2003<o:p>
+    </o:p>
+    </span></span></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Giving and Sharing the 'Gift of Life'” with Bonita E Taylor, <i>The
+    Orchard</i>, Fall, 2003</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Blended Families: Sarah, Hagar, and All That . . . ” in <i>Journal of
+    Pastoral Care &amp; Counseling</i>, Spring, 2003</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“You lift us up” in <i>Healing Ministry</i>, Winter 2003</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Yossi Klein Halevi, <i>At the Entrance of the Garden of Eden: A
+    Jew's Search for God with Christians and Muslims in the Holy Land</i></font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">2002</font></p>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in J<i>ewish Spectator Review of Books</i>, Spring-Summer, 2002
+    [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Khalid Duran with Abdelwahab Hechiche, <i>Children of Abraham: An
+        Introduction to Islam For Jews</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Adele Berlin, <i>Esther: The JPS Bible Commentary</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Lawrence Kushner, <i>The Way Into Jewish Mystical Tradition</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Raymond P. Scheindlin, <i>A Short History of the Jewish People: From
+        Legendary Times to Modern Statehood</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Harriet Rochlin, <i>On Her Way Home</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Chaim Potok, <i>Old Men at Midnight</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Nearly Everything We Wish Our Non-Jewish Supervisors Had Known About Us
+    as Jewish Supervisees” with Bonita E Taylor in <i>Journal of Pastoral Care
+    &amp; Counseling</i>, Winter, 2002</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Angels: More Than Can Dance On The Head Of A Pin” with Bonita E
+    Taylor, in T<i>he Jewish Chaplain</i>, Winter, 2002</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Chaplaincy in Long-Term Care (And Prison) Settings: People's 'Names'
+    and 'Identities' Affect Their Lives” in <i>Healing Ministry</i>, Fall 2002</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Family of Resident's Support Group: Sharing Disappointments and Coping
+    With Anger” in <i>Annals of Long-Term Care</i>, September 2002</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Family of Resident's Support Group: A Safe Place to Vent and Lament”
+    in <i>Annals of Long-Term Care</i>, May 2002</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Charles A. Spirn, <i>My Life as a Chaplain </i>in <i>Journal of
+    Pastoral Care &amp; Counseling</i>, Spring, 2002</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in J<i>ewish Spectator Review of Books</i>, Winter, 2002 [click to
+    see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Marc D. Angel, <i>But Who Am I, and Who Are My People?</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Charles A. Spirn, <i>My Life as a Chaplain</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Manuel Laderman,<i> Letters of Faith</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Anita Diamant, <i>Good Harbor</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Philip Roth, <i>The Dying Animal</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+    <p align="center"><font size="7">2001</font></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“When Do the Best Rest - and Why? A Work in Progress” in <i>Journal of
+    Jewish Communal Service</i>, Fall, 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator Review of Books</i>, Fall, 2001 [click to
+    see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Katie Singer, <i>The Wholeness of a Broken Heart</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Lawrence A. Hoffman, <i>The Way into Jewish Prayer</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Allegra Goodman, <i>Paradise Park</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Steven L. McKenzie, <i>King David: A Biography</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Robert Boston, <i>Close Encounters with the Religious Right: Journeys
+        into the Twilight Zone</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Merrill Joan Gerber, <i>The Kingdom of Brooklyn</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Alan M. Dershowitz, <i>Just Revenge</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of <i>Jonathan Rosen, The Talmud and the Internet: A Journey
+    Between Worlds</i> in <i>Jewish Spectator Review of Books</i>, Summer, 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Blended Families: Sympathizing With Sarah” in Midstream, July-August,
+    2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Through a Different Lens: American Jewish Women Writers” (with Bonita
+    E Taylor) in <i>Jewish Spectator Review of Books</i>, Spring 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Answering 'Why Me, Why Now?' Empowering the Elderly Through
+    Response-Ability” in <i>Annals of Long-Term Care</i>, May 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Katie Singer, <i>The Wholeness of a Broken Heart</i> in <i>Lilith</i>,
+    Spring 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Rescuing Rebecca's Reputation: A Midrash on Genesis 27” in <i>CCAR
+    Journal</i>, Winter, 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>CCAR Journal</i>, Winter, 2001 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Naomi Levy, <i>To Begin Again: The Journey Toward Comfort, Strength
+        and Faith in Difficult Time</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Wayne Dosick, <i>When Life Hurts: A Book of Hope</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Believing in Angels” (with Bonita E Taylor) in <i>Jewish Spectator</i>,
+    Winter 2001</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator Review of Books</i>, Winter 2001 [click to
+    see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Yaacov Ariel, <i>Evangelizing the Chosen People: Missions to the Jews
+        in America, 1880-2000</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Dan Cohn-Sherbok, <i>Messianic Judaism</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Lawrence Fuchs, <i>Beyond Patriarch: Jewish Fathers and Families</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Ruth Knafo Setton, <i>The Road to Fez (</i>with Bonita E Taylor)
+    in Lilith, Winter 2000-2001</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">2000</font></p>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“When I'm Sixty-Four” in <i>Midstream</i>, September-October, 2000</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator</i>, Summer, 2000 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Edward Cohen, <i>The Peddler's Grandson</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">John Cornwell, <i>Hitler's Pope</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Naomi Levy, <i>To Begin Again</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Daniel Gordis, <i>Becoming a Jewish Parent</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+&nbsp;
+<p align="center"><font size="7">1999</font></p>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>CCAR Journal</i>, Fall 1999 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Roger E. Herst, <i>Woman of the Cloth</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Mordechai Schreiber, editor, <i>The Shengold Encyclopedia</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Transcending Transitions: Jacob/Israel and How We Deal With Our New
+    'Names'” in <i>Journal of Pastoral Care</i>, Fall, 1999</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Betrayal (and Growth) in Genesis 22” in <i>CCAR Journal</i>, Spring,
+    1999</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jacob's Theft of Esau's Blessing” in <i>Midstream</i>, January, 1999</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator</i>, Winter, 1999 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Mordechai Schreiber, <i>Land of Dreams: An Israeli Childhood</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Roger E. Herst, <i>Woman of the Cloth</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Allegra Goodman, <i>Kaaterskill Falls</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1998</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in J<i>ournal of Ecumenical Studies</i>, Spring, 1998:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">J. Robert Wright, <i>The Holy Sepulchre: The Church of the
+        Resurrection - An Ecumenical Guide</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Donald E. Wagner, <i>Anxious for Armageddon: A Call to Partnership for
+        Middle Eastern and Western Christians</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Responsibility and Response-ability: No Small Gift” in <i>Journal of
+    Pastoral Care</i>, Winter, 1998</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Peter W. L. Walker, <i>Jesus and the Holy City: New Testament
+    Perspectives on Jerusalem</i>, in <i>Journal of Ecumenical Studies</i>,
+    Winter, 1998</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator</i>, Summer, 1998 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">John and Carol Garrard, <i>The Bones of Berdichev: The Life and Fate
+        of Vasily Grossman</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Jeffrey S. Gurock, <i>American Jewish Orthodoxy in Historical
+        Perspective</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Dvora Waysman, <i>The Pomegranate Pendant</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“World Jewry's New Zionism” in <i>Jewish Spectator</i>, Spring, 1998</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Why Would You Ask My Name?” in <i>The Jewish Chaplain</i>, Spring,
+    1998</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator,</i> Winter, 1998 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Tina Rosenberg, <i>The Haunted Land: Facing Europe's Ghosts After
+        Communism</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Charles T. Powers, <i>In The Memory of the Forest</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Neil J. Kressel, <i>Mass Hate: The Global Rise of Genocide</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Ingo Hasselbach, <i>Fuhrer-Ex: Memoirs of a Former Neo-Nazi</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Felix Zandman, <i>Never The Last Journey</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1997</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of David A. Cooper, <i>Renewing Your Soul </i>in <i>Jewish
+    Spectator</i>, Summer 1997</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1996</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Journal of Ecumenical Studies,</i> Fall, 1996 [click to see
+    list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Moshe Davis, <i>America and the Holy Land</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">P[eter] W. L. Walker, ed., <i>Jerusalem Past and Present in the
+        Purposes of God</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Here and Now” (with Glenn and Jeanne Gillette) in <i>Jewish Spectator</i>,
+    Fall 1996</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“The Marvels of Midrash: Jonah as Defender of the Jews” in <i>Midstream</i>,
+    August/September 1996</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jewish 'Continuity' and the 'Ever-Dying' Jews” in <i>Jewish Spectator</i>,
+    Summer, 1996</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Vicky Genia, <i>Counseling and Psychotherapy of Religious
+    Clients: A Developmental Approach</i> in <i>Review of Religious Research</i>,
+    March, 1996</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Shameful Secrets: Jews in American Prisons” in <i>Midstream</i>,
+    January 1996</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1995</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Rebbitzens and Women Rabbis: Portrayals in Contemporary American Jewish
+    Fiction” in <i>CCAR Journal</i>, Winter 1995</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jonah's Journey” in <i>Judaism</i>, Summer, 1995</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Larry Kushner and Kerry Olitzky, <i>Sparks Beneath the Surface</i>
+    in <i>Jewish Spectator</i>, Summer 1995</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jerusalem, the Sacred City: Perspectives From Judaism and Islam”
+    (with Jane Smith) in <i>Journal of Ecumenical Studies,</i> Spring 1995</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of David Blumenthal, <i>Facing the Abusing God: A Theology of
+    Protest</i> in <i>Jewish Spectator,</i> Spring 1995</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1994</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jews in American Prisons” in <i>Jewish Spectator,</i> Fall 1994</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Dan Cohn-Sherbok, <i>Not a Job For A Nice Jewish Boy</i> in <i>Jewish
+    Spectator</i>, Summer 1994</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Malamud as Modern Midrash” in <i>Judaism,</i> Summer 1994</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Michael Gold, <i>Does GOD Belong in the Bedroom?</i> in <i>Jewish
+    Spectator,</i> Spring 1994</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Bernard Malamud, N. Scott Momaday and the Search for Redemption” in <i>Paintbrush</i>,
+    Spring 1994</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Commissioned to write articles on “Suffering” and “Tolerance/Pluralism”
+    for 1994 expanded edition of <i>A Dictionary of the Jewish-Christian
+    Dialogue</i> (Leon Klenicki and Geoffrey Wigoder, eds.)</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Commissioned to write article on “Jewish Mission and Missionizing” for
+    1994 publication “In Dialogue” of the <i>Interfaith Department of the
+    Anti-Defamation League of B'nai B'rith</i></font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Regular book reviews for <i>The Rocky Mountain News, </i>1991-present</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1993</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Lucy S. Dawidowicz, <i>What is the Use of Jewish History?</i> in
+    <i>Jewish Spectator,</i> Fall 1993</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Abraham, Isaac and Malamud” in <i>Conservative Judaism</i>, Summer
+    1993</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Reviews in <i>Jewish Spectator</i>, Fall 1992 [click to see list]:
+    </font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Leon Klenicki (ed.), <i>Toward a Theological Encounter</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Max Dimont, <i>Appointment in Jerusalem</i></font></td></tr>
+      <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul2d.gif" width="12" height="12" hspace="15"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">John P. Meier, <i>A Marginal Jew: Rethinking the Historical Jesus</i></font></td></tr>
+    </table><font face="Trebuchet MS, Arial, Helvetica">
+  </font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1992</font>
+</font><table dynamicoutline initcollapsed border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Midrash and Modern American Jewish Literature” in <i>Studies in
+    American Jewish Literature</i>, Spring 1992</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Lena Romanoff with Lisa Holstein, <i>Your People, My People:
+    Finding Fulfillment as a Jew by Choice</i> in <i>Jewish Spectator</i>,
+    Winter 1991-1992</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1991</font>
+</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Jerold S. Auerbach, <i>Rabbis and Lawyers: The Journey from
+    Torah to Constitution</i> in <i>Jewish Spectator</i>, Fall, 1991</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Nehama Tec, <i>In the Lion's Den: The Life of Oswald Rufeisen</i>
+    in <i>Jewish Spectator</i>, Spring 1991</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">1990</font></p>
+</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jesus and Jeremiah in the Matthean Tradition” in <i>Journal of
+    Ecumenical Studies</i>, Vol. 27. No. 2, Spring 1990</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Michael A. Meyer, <i>Ideas of Jewish History</i>, in <i>Jewish
+    Spectator</i>, Winter 1990-1991</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Hillel Goldberg,<i> From Slobodka to Berlin: Jewish Transition
+    Figures from Eastern Europe</i> in <i>Jewish Spectator</i>, Summer 1990</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Conflicting Conclusions: The Hatred of Isaac and Ishmael” in <i>Judaism</i>,
+    Winter 1990.</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+<p align="center"><font size="7">Before 1990</font>
+</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of C. Abramsky, et al., <i>The Jews of Poland</i> in <i>Jewish
+    Spectator</i>, Fall 1989</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">Review of Carl Guinari and David Alverez, eds., <i>Religion and Society in
+    the American West: Historical Essays</i> (University Press of America) in <i>The
+    Journal of American History</i>, 1988</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Jacob in Darkness (and Light): A Study in Contrasts” in <i>Judaism</i>,
+    Fall, 1986</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Coping With Mixed Marriages: When Love Doesn't Conquer All” in <i>Reconstructionist</i>,
+    July August, 1986</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“A Pesach Quartet: Jacob, Rachel, Elijah and Bernard Malamud” in <i>The
+    Jewish Quarterly</i>, London, England, Vol. 33, No. 1, 1986</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Strangers, Angels and Redemption: Jewish/Christian Images in Two
+    Malamud Stories” in <i>Conservative Judaism</i>, Fall, 1984</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“The Structure, Function and Organization of a Mixed-Marriage Support
+    System” (with Melanie W. Aron) in <i>Journal of Reform Judaism</i>,
+    Summer, 1984</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“Challenging Our Values” in <i>Anglo-Jewish Association Review</i>
+    (London, England), Winter 1980/1981</font></td></tr>
+  <tr><td valign="baseline" width="42"><img src="_themes/blends/blebul1d.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><font face="Trebuchet MS, Arial, Helvetica">“British Progressive Judaism - On Status and Standards: The 'Ishut'
+    Issue” in J<i>ournal of Reform Judaism</i>, Summer, 1979</font></td></tr>
+</table><font face="Trebuchet MS, Arial, Helvetica">
+&nbsp;
+
+</font><!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><font face="Trebuchet MS, Arial, Helvetica">
+
+<p align="center"><font face="Rockwell Extra Bold">Powered by <a href="http://www.warefore.com/demosites/">WareFore
+Analysis</a><img border="0" src="djzNEWW/images/WA_logo_-_basic.gif" align="absmiddle"></font>
+
+</font></td></tr><!--msnavigation--></table></body>
+
+</html>
